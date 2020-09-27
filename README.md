@@ -51,5 +51,7 @@ Dados de contato do author do projeto
 Seu nome - [@seutwitter](https://twitter.com/seutwitter)
 
 Distribuido sob a licença. Veja `LICENÇA` para mais informações.
-[https://github.com/seuusuario/seuprojeto]
+[https://github.com/seuusuario/seuprojeto]([https://github.com/seuusuario)
+
+
     
